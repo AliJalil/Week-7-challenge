@@ -22,7 +22,8 @@
         android:layout_width="160dp"
         android:layout_height="225dp"
         android:layout_margin="@dimen/marginNormal"
-        android:src="@drawable/overlay"/>
+        android:src="@drawable/overlay"
+        android:scaleType="centerCrop"/>
 
 
     <com.google.android.material.imageview.ShapeableImageView
